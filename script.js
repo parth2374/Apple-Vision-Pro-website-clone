@@ -486,31 +486,31 @@ render();
 
 function files(index) {
 var data = `
-/Apple%20Vision%20Pro/Vision00001.png
-/Apple%20Vision%20Pro/Vision00002.png
-/Apple%20Vision%20Pro/Vision00003.png
-/Apple%20Vision%20Pro/Vision00004.png
-/Apple%20Vision%20Pro/Vision00005.png
-/Apple%20Vision%20Pro/Vision00006.png
-/Apple%20Vision%20Pro/Vision00007.png
-/Apple%20Vision%20Pro/Vision00008.png
-/Apple%20Vision%20Pro/Vision00009.png
-/Apple%20Vision%20Pro/Vision00010.png
-/Apple%20Vision%20Pro/Vision00011.png
-/Apple%20Vision%20Pro/Vision00012.png
-/Apple%20Vision%20Pro/Vision00013.png
-/Apple%20Vision%20Pro/Vision00014.png
-/Apple%20Vision%20Pro/Vision00015.png
-/Apple%20Vision%20Pro/Vision00016.png
-/Apple%20Vision%20Pro/Vision00017.png
-/Apple%20Vision%20Pro/Vision00018.png
-/Apple%20Vision%20Pro/Vision00019.png
-/Apple%20Vision%20Pro/Vision00020.png
-/Apple%20Vision%20Pro/Vision00021.png
-/Apple%20Vision%20Pro/Vision00022.png
-/Apple%20Vision%20Pro/Vision00023.png
-/Apple%20Vision%20Pro/Vision00024.png
-/Apple%20Vision%20Pro/Vision00025.png
+https://github.com/parth2374/Apple-Vision-Pro-website-clone/blob/main/Vision00001.png
+https://github.com/parth2374/Apple-Vision-Pro-website-clone/blob/main/Vision00002.png
+https://github.com/parth2374/Apple-Vision-Pro-website-clone/blob/main/Vision00003.png
+https://github.com/parth2374/Apple-Vision-Pro-website-clone/blob/main/Vision00004.png
+https://github.com/parth2374/Apple-Vision-Pro-website-clone/blob/main/Vision00005.png
+https://github.com/parth2374/Apple-Vision-Pro-website-clone/blob/main/Vision00006.png
+https://github.com/parth2374/Apple-Vision-Pro-website-clone/blob/main/Vision00007.png
+https://github.com/parth2374/Apple-Vision-Pro-website-clone/blob/main/Vision00008.png
+https://github.com/parth2374/Apple-Vision-Pro-website-clone/blob/main/Vision00009.png
+https://github.com/parth2374/Apple-Vision-Pro-website-clone/blob/main/Vision00010.png
+https://github.com/parth2374/Apple-Vision-Pro-website-clone/blob/main/Vision00011.png
+https://github.com/parth2374/Apple-Vision-Pro-website-clone/blob/main/Vision00012.png
+https://github.com/parth2374/Apple-Vision-Pro-website-clone/blob/main/Vision00013.png
+https://github.com/parth2374/Apple-Vision-Pro-website-clone/blob/main/Vision00014.png
+https://github.com/parth2374/Apple-Vision-Pro-website-clone/blob/main/Vision00015.png
+https://github.com/parth2374/Apple-Vision-Pro-website-clone/blob/main/Vision00016.png
+https://github.com/parth2374/Apple-Vision-Pro-website-clone/blob/main/Vision00017.png
+https://github.com/parth2374/Apple-Vision-Pro-website-clone/blob/main/Vision00018.png
+https://github.com/parth2374/Apple-Vision-Pro-website-clone/blob/main/Vision00019.png
+https://github.com/parth2374/Apple-Vision-Pro-website-clone/blob/main/Vision00020.png
+https://github.com/parth2374/Apple-Vision-Pro-website-clone/blob/main/Vision00021.png
+https://github.com/parth2374/Apple-Vision-Pro-website-clone/blob/main/Vision00022.png
+https://github.com/parth2374/Apple-Vision-Pro-website-clone/blob/main/Vision00023.png
+https://github.com/parth2374/Apple-Vision-Pro-website-clone/blob/main/Vision00024.png
+https://github.com/parth2374/Apple-Vision-Pro-website-clone/blob/main/Vision00025.png
 `;
 return data.split("\n")[index];
 }
