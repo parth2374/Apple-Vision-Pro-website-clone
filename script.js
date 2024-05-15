@@ -486,31 +486,31 @@ render();
 
 function files(index) {
 var data = `
-file:///E:/Apple%20Vision%20Pro/Vision00001.png
-file:///E:/Apple%20Vision%20Pro/Vision00002.png
-file:///E:/Apple%20Vision%20Pro/Vision00003.png
-file:///E:/Apple%20Vision%20Pro/Vision00004.png
-file:///E:/Apple%20Vision%20Pro/Vision00005.png
-file:///E:/Apple%20Vision%20Pro/Vision00006.png
-file:///E:/Apple%20Vision%20Pro/Vision00007.png
-file:///E:/Apple%20Vision%20Pro/Vision00008.png
-file:///E:/Apple%20Vision%20Pro/Vision00009.png
-file:///E:/Apple%20Vision%20Pro/Vision00010.png
-file:///E:/Apple%20Vision%20Pro/Vision00011.png
-file:///E:/Apple%20Vision%20Pro/Vision00012.png
-file:///E:/Apple%20Vision%20Pro/Vision00013.png
-file:///E:/Apple%20Vision%20Pro/Vision00014.png
-file:///E:/Apple%20Vision%20Pro/Vision00015.png
-file:///E:/Apple%20Vision%20Pro/Vision00016.png
-file:///E:/Apple%20Vision%20Pro/Vision00017.png
-file:///E:/Apple%20Vision%20Pro/Vision00018.png
-file:///E:/Apple%20Vision%20Pro/Vision00019.png
-file:///E:/Apple%20Vision%20Pro/Vision00020.png
-file:///E:/Apple%20Vision%20Pro/Vision00021.png
-file:///E:/Apple%20Vision%20Pro/Vision00022.png
-file:///E:/Apple%20Vision%20Pro/Vision00023.png
-file:///E:/Apple%20Vision%20Pro/Vision00024.png
-file:///E:/Apple%20Vision%20Pro/Vision00025.png
+/Apple%20Vision%20Pro/Vision00001.png
+/Apple%20Vision%20Pro/Vision00002.png
+/Apple%20Vision%20Pro/Vision00003.png
+/Apple%20Vision%20Pro/Vision00004.png
+/Apple%20Vision%20Pro/Vision00005.png
+/Apple%20Vision%20Pro/Vision00006.png
+/Apple%20Vision%20Pro/Vision00007.png
+/Apple%20Vision%20Pro/Vision00008.png
+/Apple%20Vision%20Pro/Vision00009.png
+/Apple%20Vision%20Pro/Vision00010.png
+/Apple%20Vision%20Pro/Vision00011.png
+/Apple%20Vision%20Pro/Vision00012.png
+/Apple%20Vision%20Pro/Vision00013.png
+/Apple%20Vision%20Pro/Vision00014.png
+/Apple%20Vision%20Pro/Vision00015.png
+/Apple%20Vision%20Pro/Vision00016.png
+/Apple%20Vision%20Pro/Vision00017.png
+/Apple%20Vision%20Pro/Vision00018.png
+/Apple%20Vision%20Pro/Vision00019.png
+/Apple%20Vision%20Pro/Vision00020.png
+/Apple%20Vision%20Pro/Vision00021.png
+/Apple%20Vision%20Pro/Vision00022.png
+/Apple%20Vision%20Pro/Vision00023.png
+/Apple%20Vision%20Pro/Vision00024.png
+/Apple%20Vision%20Pro/Vision00025.png
 `;
 return data.split("\n")[index];
 }
